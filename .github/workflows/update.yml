@@ -1,11 +1,8 @@
 name: Update KTC values
-
-# "on" is quoted deliberately. Unquoted, YAML reads `on:` as the boolean true,
-# and GitHub then reports "no event triggers defined in on".
-"on":
+on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *"        # every day at 08:00 UTC
-  workflow_dispatch:            # and a Run button, for when you want it now
+    - cron: "0 8 * * *"
 
 permissions:
   contents: write
@@ -15,21 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Fetch KeepTradeCut values
-        run: python scrape.py
-
-      - name: Commit if anything changed
-        run: |
-          git config user.name  "ktc-bot"
-          git config user.email "ktc-bot@users.noreply.github.com"
+      - run: pip install requests beautifulsoup4
+      - run: python scrape.py
+      - run: |
+          git config user.name ktc-bot
+          git config user.email ktc-bot@users.noreply.github.com
           git add ktc.csv
-          git diff --staged --quiet || git commit -m "KTC values $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "KTC values"
           git push
