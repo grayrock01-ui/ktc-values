@@ -9,6 +9,9 @@ import csv, time, sys
 import requests
 from bs4 import BeautifulSoup
 
+# RDP is KTC's code for rookie draft picks. They are ranked alongside players
+# and carry real trade value, so they are wanted here -- a trade of picks for a
+# player cannot be graded without them.
 URL = "https://keeptradecut.com/dynasty-rankings?page={0}&filters=QB|WR|RB|TE|RDP&format={1}"
 PAGES = 10                     # KTC pages 0-9 covers the full ranked list
 
@@ -44,8 +47,11 @@ def scrape(fmt):
 
             pos_rank = pos_el.get_text(strip=True)
             pos = pos_rank[:2]
-            if pos == 'PI':                      # draft picks are not cards
-                continue
+            # PI is a draft pick. Keep it: its value is what makes a
+            # picks-for-player trade gradeable. The name carries the detail,
+            # e.g. "2026 Early 1st", "2027 Mid 2nd".
+            if pos == 'PI':
+                team = 'PICK'
             try:
                 value = int(val_el.get_text(strip=True))
             except ValueError:
