@@ -1,501 +1,461 @@
 Player Name,Position,Team,Rookie,SFValue,Value
-Jahmyr Gibbs,RB,DET,No,9998,9999
-Josh Allen,QB,BUF,No,9993,7562
-Bijan Robinson,RB,ATL,No,9989,9992
-Ja'Marr Chase,WR,CIN,No,9975,9993
-Jaxon Smith-Njigba,WR,SEA,No,9142,9155
-Drake Maye,QB,NEP,No,8826,6325
-Puka Nacua,WR,LAR,No,8395,8434
-Brock Bowers,TE,LVR,No,8258,8358
-Amon-Ra St. Brown,WR,DET,No,8223,8282
-Caleb Williams,QB,CHI,No,7762,5963
-Lamar Jackson,QB,BAL,No,7429,6134
-Justin Jefferson,WR,MIN,No,7426,7505
-Malik Nabers,WR,NYG,No,7302,7479
-Jeremiyah Love,RB,ARI,Yes,7285,7511
-Joe Burrow,QB,CIN,No,7253,5817
-Ashton Jeanty,RB,LVR,No,7242,7455
-Trey McBride,TE,ARI,No,7233,7402
-CeeDee Lamb,WR,DAL,No,7223,7385
-Jayden Daniels,QB,WAS,No,7155,5847
-Omarion Hampton,RB,LAC,No,7011,7369
-2027 Early 1st,PI,PICK,No,6974,7253
-De'Von Achane,RB,MIA,No,6971,7261
-Justin Herbert,QB,LAC,No,6894,5411
-James Cook,RB,BUF,No,6703,7161
-Drake London,WR,ATL,No,6701,7047
-Jonathan Taylor,RB,IND,No,6422,7025
-Trevor Lawrence,QB,JAC,No,6338,5012
-Colston Loveland,TE,CHI,No,6303,6600
-Tetairoa McMillan,WR,CAR,No,6266,6516
-George Pickens,WR,DAL,No,6250,6665
-Emeka Egbuka,WR,TBB,No,6124,6437
-Jalen Hurts,QB,PHI,No,6007,5347
-Bo Nix,QB,DEN,No,5997,4958
-Patrick Mahomes,QB,KCC,No,5912,5055
-Tyler Warren,TE,IND,No,5882,6276
-Jaxson Dart,QB,NYG,No,5822,5122
-Kenneth Walker III,RB,KCC,No,5819,6382
-Chase Brown,RB,CIN,No,5785,6398
-Nico Collins,WR,HOU,No,5777,6307
-Ladd McConkey,WR,LAC,No,5774,6239
-Chris Olave,WR,NOS,No,5763,6264
-Garrett Wilson,WR,NYJ,No,5613,6161
-DeVonta Smith,WR,PHI,No,5596,6138
-2027 Mid 1st,PI,PICK,No,5578,6137
-Brock Purdy,QB,SFO,No,5577,4639
-Carnell Tate,WR,TEN,Yes,5554,6065
-Luther Burden,WR,CHI,No,5543,6170
-2026 Early 1st,PI,PICK,No,5475,6108
-Christian McCaffrey,RB,SFO,No,5407,6059
-Jordan Love,QB,GBP,No,5396,4432
-Saquon Barkley,RB,PHI,No,5372,5993
-Zay Flowers,WR,BAL,No,5364,5968
-Breece Hall,RB,NYJ,No,5342,6020
-A.J. Brown,WR,NEP,No,5332,5946
-Fernando Mendoza,QB,LVR,Yes,5242,4497
-Quinshon Judkins,RB,CLE,No,5224,5863
-2028 Early 1st,PI,PICK,No,5208,5824
-Jadarian Price,RB,SEA,Yes,5201,5921
-Rome Odunze,WR,CHI,No,5169,5835
-Tee Higgins,WR,CIN,No,5148,5820
-Jaylen Waddle,WR,DEN,No,5139,5856
-Dak Prescott,QB,DAL,No,5114,4556
-2027 Late 1st,PI,PICK,No,4957,5559
-Kyren Williams,RB,LAR,No,4947,5729
-Tucker Kraft,TE,GBP,No,4911,5511
-Rashee Rice,WR,KCC,No,4909,5624
-TreVeyon Henderson,RB,NEP,No,4867,5551
-Jameson Williams,WR,DET,No,4854,5513
-Jordyn Tyson,WR,NOS,Yes,4844,5476
-Javonte Williams,RB,DAL,No,4805,5536
-Tyler Shough,QB,NOS,No,4795,4118
-Marvin Harrison Jr.,WR,ARI,No,4707,5383
-2026 Mid 1st,PI,PICK,No,4699,5273
-KC Concepcion,WR,CLE,Yes,4685,5300
-Parker Washington,WR,JAC,No,4670,5398
-Makai Lemon,WR,PHI,Yes,4661,5299
-Jared Goff,QB,DET,No,4656,3973
-Harold Fannin,TE,CLE,No,4656,5244
-Bucky Irving,RB,TBB,No,4635,5310
-2028 Mid 1st,PI,PICK,No,4609,5126
-Baker Mayfield,QB,TBB,No,4595,4042
-Cam Skattebo,RB,NYG,No,4564,5298
-Bhayshul Tuten,RB,JAC,No,4483,5269
-Travis Etienne,RB,NOS,No,4481,5247
-Sam LaPorta,TE,DET,No,4476,4945
-Cam Ward,QB,TEN,No,4455,4044
-C.J. Stroud,QB,HOU,No,4427,3833
-Brian Thomas Jr.,WR,JAC,No,4417,5129
-Derrick Henry,RB,BAL,No,4393,5134
-Kyle Pitts,TE,ATL,No,4286,4990
-Sam Darnold,QB,SEA,No,4262,3752
-2028 Late 1st,PI,PICK,No,4134,4701
-D'Andre Swift,RB,CHI,No,4109,5025
-Christian Watson,WR,GBP,No,4106,4905
-2026 Late 1st,PI,PICK,No,4094,4787
-De'Zhaun Stribling,WR,SFO,Yes,4059,4728
-D.J. Moore,WR,BUF,No,3963,4780
-Kyler Murray,QB,MIN,No,3806,3728
-2027 Early 2nd,PI,PICK,No,3803,4556
-Michael Wilson,WR,ARI,No,3792,4636
-Matthew Stafford,QB,LAR,No,3758,3815
-Daniel Jones,QB,IND,No,3749,3356
-Jordan Addison,WR,MIN,No,3727,4575
-Alec Pierce,WR,IND,No,3701,4553
-Bryce Young,QB,CAR,No,3688,3301
-Jonathon Brooks,RB,CAR,No,3687,4647
-Matthew Golden,WR,GBP,No,3685,4580
-Malik Willis,QB,MIA,No,3668,3552
-Ty Simpson,QB,LAR,Yes,3663,3317
-Denzel Boston,WR,CLE,Yes,3618,4569
-Kenyon Sadiq,TE,NYJ,Yes,3599,4417
-Blake Corum,RB,LAR,No,3575,4500
-Quentin Johnston,WR,LAC,No,3574,4459
-David Montgomery,RB,HOU,No,3561,4531
-Davante Adams,WR,LAR,No,3481,4406
-Josh Downs,WR,IND,No,3451,4351
-Isaiah Likely,TE,NYG,No,3444,4194
-2027 Mid 2nd,PI,PICK,No,3396,4208
-Terry McLaurin,WR,WAS,No,3385,4272
-2026 Early 2nd,PI,PICK,No,3375,4055
-Jaylen Warren,RB,PIT,No,3346,4180
-Rhamondre Stevenson,RB,NEP,No,3344,4179
-DK Metcalf,WR,PIT,No,3342,4145
-Wan'Dale Robinson,WR,TEN,No,3331,4203
-MarShawn Lloyd,RB,GBP,No,3323,4077
-Kyle Monangai,RB,CHI,No,3323,4187
-RJ Harvey,RB,DEN,No,3314,4145
-Jayden Reed,WR,GBP,No,3303,4166
-George Kittle,TE,SFO,No,3290,4056
-Omar Cooper Jr.,WR,NYJ,Yes,3282,4098
-Jonah Coleman,RB,DEN,Yes,3274,4149
-Dalton Kincaid,TE,BUF,No,3262,4026
-Jalen Coker,WR,CAR,No,3257,4086
-Zach Charbonnet,RB,SEA,No,3254,3956
-Michael Pittman,WR,PIT,No,3251,4053
-Ja'Kobi Lane,WR,BAL,Yes,3246,3972
-2028 Early 2nd,PI,PICK,No,3235,3938
-Mike Washington Jr.,RB,LVR,Yes,3221,3958
-Romeo Doubs,WR,NEP,No,3209,3888
-Jacory Croskey-Merritt,RB,WAS,No,3199,3949
-2027 Late 2nd,PI,PICK,No,3198,3843
-2026 Mid 2nd,PI,PICK,No,3173,3787
-Rico Dowdle,RB,PIT,No,3153,3866
-Mike Evans,WR,SFO,No,3133,3820
-Jayden Higgins,WR,HOU,No,3090,3815
-Chris Bell,WR,MIA,Yes,3082,3881
-Courtland Sutton,WR,DEN,No,3074,3819
-Terrance Ferguson,TE,LAR,No,3065,3718
-Chris Godwin,WR,TBB,No,3052,3804
-Jordan Mason,RB,MIN,No,3047,3779
-2028 Mid 2nd,PI,PICK,No,3043,3724
-Xavier Worthy,WR,KCC,No,3016,3817
-Oronde Gadsden,TE,LAC,No,2997,3648
-Jake Ferguson,TE,DAL,No,2983,3701
-Kenneth Gainwell,RB,TBB,No,2982,3651
-J.K. Dobbins,RB,DEN,No,2974,3695
-Chuba Hubbard,RB,CAR,No,2973,3727
-Malachi Fields,WR,NYG,Yes,2961,3674
-2026 Late 2nd,PI,PICK,No,2943,3601
-Germie Bernard,WR,PIT,Yes,2928,3615
-Brenton Strange,TE,JAC,No,2910,3531
-Eli Stowers,TE,PHI,Yes,2907,3564
-Antonio Williams,WR,WAS,Yes,2898,3572
-Woody Marks,RB,HOU,No,2894,3600
-Travis Hunter,WR,JAC,No,2878,3538
-Jalen McMillan,WR,TBB,No,2876,3556
-Jakobi Meyers,WR,JAC,No,2833,3543
-Cyrus Allen,WR,KCC,Yes,2802,3512
-Michael Penix Jr.,QB,ATL,No,2788,2727
-Tyler Allgeier,RB,ARI,No,2786,3557
-Caleb Douglas,WR,MIA,Yes,2782,3499
-Carson Beck,QB,ARI,Yes,2778,1428
-Tony Pollard,RB,TEN,No,2772,3412
-2028 Late 2nd,PI,PICK,No,2771,3338
-Khalil Shakir,WR,BUF,No,2766,3460
-Zachariah Branch,WR,ATL,Yes,2753,3439
-Josh Jacobs,RB,GBP,No,2715,3470
-Emmett Johnson,RB,KCC,Yes,2704,3372
-Nicholas Singleton,RB,TEN,Yes,2695,3470
-Chris Rodriguez,RB,JAC,No,2688,3338
-Kayshon Boutte,WR,HOU,No,2685,3330
-Malik Washington,WR,MIA,No,2674,3311
-AJ Barner,TE,SEA,No,2649,3203
-Chigoziem Okonkwo,TE,WAS,No,2645,3176
-Keaton Mitchell,RB,LAC,No,2643,3230
-Rachaad White,RB,WAS,No,2636,3256
-Pat Bryant,WR,DEN,No,2635,3234
-Ted Hurst,WR,TBB,Yes,2632,3194
-Stefon Diggs,WR,WAS,No,2627,3253
-Rashid Shaheed,WR,SEA,No,2626,3219
-Dontayvion Wicks,WR,PHI,No,2615,3164
-Mark Andrews,TE,BAL,No,2611,3153
-Tank Bigsby,RB,PHI,No,2602,3222
-Dallas Goedert,TE,PHI,No,2597,3156
-Kaelon Black,RB,SFO,Yes,2596,3110
-Braelon Allen,RB,NYJ,No,2586,3215
-Juwan Johnson,TE,NOS,No,2585,3003
-Tre Harris,WR,LAC,No,2579,3162
-2027 Early 3rd,PI,PICK,No,2574,3094
-Tre Tucker,WR,LVR,No,2568,3110
-Dylan Sampson,RB,CLE,No,2562,3133
-Adonai Mitchell,WR,NYJ,No,2558,3199
-Ricky Pearsall,WR,SFO,No,2557,3055
-Tyjae Spears,RB,TEN,No,2538,3070
-Travis Kelce,TE,KCC,No,2528,3041
-Drew Allar,QB,PIT,Yes,2513,272
-Elijah Sarratt,WR,BAL,Yes,2506,3019
-2026 Early 3rd,PI,PICK,No,2498,2933
-Jaylin Noel,WR,HOU,No,2496,3010
-2027 Mid 3rd,PI,PICK,No,2479,2928
-Kaytron Allen,RB,WAS,Yes,2472,2978
-T.J. Hockenson,TE,MIN,No,2457,3002
-Gunnar Helm,TE,TEN,No,2453,2972
-Jacoby Brissett,QB,ARI,No,2451,2067
-Kaleb Johnson,RB,GBP,No,2437,2915
-Jalen Nailor,WR,LVR,No,2435,2956
-Isaac TeSlaa,WR,DET,No,2430,3017
-Tory Horton,WR,SEA,No,2412,2959
-Eli Raridon,TE,NEP,Yes,2408,2806
-Tank Dell,WR,HOU,No,2398,2828
-Hunter Henry,TE,NEP,No,2388,2802
-Shedeur Sanders,QB,CLE,No,2385,2287
-Skyler Bell,WR,BUF,Yes,2364,2846
-Brian Robinson,RB,ATL,No,2361,2812
-Deebo Samuel,WR,SFO,No,2360,2907
-2026 Mid 3rd,PI,PICK,No,2340,2699
-Troy Franklin,WR,DEN,No,2333,2926
-2028 Early 3rd,PI,PICK,No,2325,2693
-Demond Claiborne,RB,MIN,Yes,2317,2822
-2027 Late 3rd,PI,PICK,No,2308,2772
-Dalton Schultz,TE,HOU,No,2299,2652
-Elijah Arroyo,TE,SEA,No,2290,2756
-Mac Jones,QB,SFO,No,2280,2027
-Mason Taylor,TE,NYJ,No,2280,2750
-Elic Ayomanor,WR,TEN,No,2277,2841
-Jack Bech,WR,LVR,No,2265,2756
-Chris Brazzell II,WR,CAR,Yes,2258,2777
-Keon Coleman,WR,BUF,No,2256,2785
-Jerry Jeudy,WR,CLE,No,2243,2742
-Aaron Jones,RB,MIN,No,2217,2705
-Kyle Williams,WR,NEP,No,2209,2787
-Geno Smith,QB,NYJ,No,2207,1694
-2028 Mid 3rd,PI,PICK,No,2205,2613
-Greg Dulcich,TE,MIA,No,2203,2667
-Jauan Jennings,WR,MIN,No,2196,2608
-Max Klare,TE,LAR,Yes,2193,2649
-Jordan James,RB,SFO,No,2183,2716
+Jahmyr Gibbs,RB,DET,No,9999,9999
+Josh Allen,QB,BUF,No,9995,7542
+Bijan Robinson,RB,ATL,No,9987,9989
+Ja'Marr Chase,WR,CIN,No,9959,9989
+Jaxon Smith-Njigba,WR,SEA,No,9129,9162
+Drake Maye,QB,NEP,No,8768,6337
+Puka Nacua,WR,LAR,No,8430,8455
+Amon-Ra St. Brown,WR,DET,No,8215,8290
+Brock Bowers,TE,LVR,No,8212,8349
+Caleb Williams,QB,CHI,No,7793,5942
+Lamar Jackson,QB,BAL,No,7468,6134
+Justin Jefferson,WR,MIN,No,7394,7479
+Malik Nabers,WR,NYG,No,7292,7466
+Joe Burrow,QB,CIN,No,7284,5835
+Jeremiyah Love,RB,ARI,Yes,7284,7505
+Trey McBride,TE,ARI,No,7232,7403
+Ashton Jeanty,RB,LVR,No,7226,7447
+CeeDee Lamb,WR,DAL,No,7201,7395
+Jayden Daniels,QB,WAS,No,7165,5836
+Omarion Hampton,RB,LAC,No,6989,7358
+2027 Early 1st,PI,PICK,No,6987,7265
+De'Von Achane,RB,MIA,No,6950,7268
+Justin Herbert,QB,LAC,No,6918,5427
+Drake London,WR,ATL,No,6729,7078
+James Cook,RB,BUF,No,6691,7152
+Jonathan Taylor,RB,IND,No,6410,7000
+Trevor Lawrence,QB,JAC,No,6386,5021
+Colston Loveland,TE,CHI,No,6300,6619
+George Pickens,WR,DAL,No,6244,6661
+Tetairoa McMillan,WR,CAR,No,6204,6478
+Emeka Egbuka,WR,TBB,No,6106,6427
+Jalen Hurts,QB,PHI,No,6035,5330
+Bo Nix,QB,DEN,No,5992,4980
+Patrick Mahomes,QB,KCC,No,5930,5029
+Tyler Warren,TE,IND,No,5867,6263
+Kenneth Walker III,RB,KCC,No,5832,6400
+Jaxson Dart,QB,NYG,No,5820,5135
+Chase Brown,RB,CIN,No,5782,6388
+Nico Collins,WR,HOU,No,5780,6287
+Ladd McConkey,WR,LAC,No,5776,6236
+Chris Olave,WR,NOS,No,5765,6293
+DeVonta Smith,WR,PHI,No,5612,6144
+Garrett Wilson,WR,NYJ,No,5611,6156
+2027 Mid 1st,PI,PICK,No,5571,6117
+Luther Burden,WR,CHI,No,5568,6205
+Brock Purdy,QB,SFO,No,5555,4633
+Carnell Tate,WR,TEN,Yes,5522,6034
+2026 Early 1st,PI,PICK,No,5505,6113
+Christian McCaffrey,RB,SFO,No,5438,6075
+Breece Hall,RB,NYJ,No,5396,6051
+Saquon Barkley,RB,PHI,No,5379,6005
+Jordan Love,QB,GBP,No,5373,4418
+A.J. Brown,WR,NEP,No,5340,5962
+Zay Flowers,WR,BAL,No,5321,5943
+Fernando Mendoza,QB,LVR,Yes,5227,4505
+Rome Odunze,WR,CHI,No,5224,5866
+Jadarian Price,RB,SEA,Yes,5220,5921
+Quinshon Judkins,RB,CLE,No,5205,5853
+2028 Early 1st,PI,PICK,No,5176,5799
+Tee Higgins,WR,CIN,No,5156,5837
+Jaylen Waddle,WR,DEN,No,5150,5843
+Dak Prescott,QB,DAL,No,5088,4563
+2027 Late 1st,PI,PICK,No,4923,5561
+Kyren Williams,RB,LAR,No,4911,5729
+Tucker Kraft,TE,GBP,No,4904,5483
+Rashee Rice,WR,KCC,No,4890,5603
+Jameson Williams,WR,DET,No,4877,5506
+TreVeyon Henderson,RB,NEP,No,4876,5540
+Javonte Williams,RB,DAL,No,4852,5583
+Jordyn Tyson,WR,NOS,Yes,4839,5471
+Tyler Shough,QB,NOS,No,4793,4122
+Marvin Harrison Jr.,WR,ARI,No,4734,5374
+Parker Washington,WR,JAC,No,4696,5396
+2026 Mid 1st,PI,PICK,No,4692,5265
+Harold Fannin,TE,CLE,No,4678,5266
+KC Concepcion,WR,CLE,Yes,4662,5291
+Makai Lemon,WR,PHI,Yes,4656,5309
+Jared Goff,QB,DET,No,4645,3985
+Bucky Irving,RB,TBB,No,4627,5299
+2028 Mid 1st,PI,PICK,No,4612,5130
+Baker Mayfield,QB,TBB,No,4559,4027
+Cam Skattebo,RB,NYG,No,4548,5302
+Travis Etienne,RB,NOS,No,4485,5245
+Bhayshul Tuten,RB,JAC,No,4460,5254
+Cam Ward,QB,TEN,No,4451,4041
+Brian Thomas Jr.,WR,JAC,No,4440,5139
+Sam LaPorta,TE,DET,No,4438,4942
+C.J. Stroud,QB,HOU,No,4432,3822
+Derrick Henry,RB,BAL,No,4390,5134
+2026 Pick 1.0,PI,PICK,No,4327,4964
+Kyle Pitts,TE,ATL,No,4322,4994
+Sam Darnold,QB,SEA,No,4262,3749
+2028 Late 1st,PI,PICK,No,4128,4715
+Christian Watson,WR,GBP,No,4115,4907
+D'Andre Swift,RB,CHI,No,4111,5025
+2026 Late 1st,PI,PICK,No,4105,4779
+De'Zhaun Stribling,WR,SFO,Yes,4052,4745
+D.J. Moore,WR,BUF,No,3962,4747
+2026 Pick 1.1,PI,PICK,No,3873,4600
+Kyler Murray,QB,MIN,No,3843,3725
+Michael Wilson,WR,ARI,No,3814,4644
+2027 Early 2nd,PI,PICK,No,3781,4561
+Matthew Stafford,QB,LAR,No,3779,3809
+Daniel Jones,QB,IND,No,3743,3362
+Alec Pierce,WR,IND,No,3702,4555
+Jordan Addison,WR,MIN,No,3694,4552
+Bryce Young,QB,CAR,No,3691,3307
+Malik Willis,QB,MIA,No,3688,3555
+Jonathon Brooks,RB,CAR,No,3677,4643
+Matthew Golden,WR,GBP,No,3664,4593
+Ty Simpson,QB,LAR,Yes,3655,3321
+Denzel Boston,WR,CLE,Yes,3637,4606
+Kenyon Sadiq,TE,NYJ,Yes,3632,4445
+Quentin Johnston,WR,LAC,No,3605,4477
+Blake Corum,RB,LAR,No,3565,4487
+David Montgomery,RB,HOU,No,3539,4504
+Davante Adams,WR,LAR,No,3498,4397
+Josh Downs,WR,IND,No,3451,4370
+Isaiah Likely,TE,NYG,No,3429,4196
+Terry McLaurin,WR,WAS,No,3391,4272
+2027 Mid 2nd,PI,PICK,No,3379,4208
+2026 Early 2nd,PI,PICK,No,3366,4050
+Rhamondre Stevenson,RB,NEP,No,3357,4175
+Jaylen Warren,RB,PIT,No,3347,4189
+Jayden Reed,WR,GBP,No,3334,4198
+Kyle Monangai,RB,CHI,No,3322,4184
+DK Metcalf,WR,PIT,No,3318,4140
+Wan'Dale Robinson,WR,TEN,No,3309,4193
+MarShawn Lloyd,RB,GBP,No,3308,4033
+Omar Cooper Jr.,WR,NYJ,Yes,3302,4108
+RJ Harvey,RB,DEN,No,3281,4099
+Jalen Coker,WR,CAR,No,3274,4087
+Ja'Kobi Lane,WR,BAL,Yes,3270,3990
+George Kittle,TE,SFO,No,3268,4043
+Jonah Coleman,RB,DEN,Yes,3264,4140
+Michael Pittman,WR,PIT,No,3263,4061
+Dalton Kincaid,TE,BUF,No,3233,4006
+Zach Charbonnet,RB,SEA,No,3230,3949
+Romeo Doubs,WR,NEP,No,3227,3882
+Mike Washington Jr.,RB,LVR,Yes,3214,3957
+2028 Early 2nd,PI,PICK,No,3212,3935
+2027 Late 2nd,PI,PICK,No,3206,3837
+Jacory Croskey-Merritt,RB,WAS,No,3185,3933
+Rico Dowdle,RB,PIT,No,3174,3876
+Mike Evans,WR,SFO,No,3159,3836
+2026 Mid 2nd,PI,PICK,No,3151,3790
+Chris Bell,WR,MIA,Yes,3098,3913
+Terrance Ferguson,TE,LAR,No,3076,3729
+Jayden Higgins,WR,HOU,No,3068,3804
+Jordan Mason,RB,MIN,No,3063,3798
+Chris Godwin,WR,TBB,No,3049,3803
+Courtland Sutton,WR,DEN,No,3044,3797
+2028 Mid 2nd,PI,PICK,No,3037,3733
+Xavier Worthy,WR,KCC,No,3019,3808
+2026 Pick 2.0,PI,PICK,No,3012,3679
+Kenneth Gainwell,RB,TBB,No,2995,3642
+Jake Ferguson,TE,DAL,No,2995,3733
+Chuba Hubbard,RB,CAR,No,2986,3733
+Malachi Fields,WR,NYG,Yes,2976,3681
+Oronde Gadsden,TE,LAC,No,2969,3634
+J.K. Dobbins,RB,DEN,No,2961,3685
+2026 Late 2nd,PI,PICK,No,2941,3616
+Antonio Williams,WR,WAS,Yes,2925,3611
+Brenton Strange,TE,JAC,No,2910,3533
+Germie Bernard,WR,PIT,Yes,2899,3601
+Woody Marks,RB,HOU,No,2890,3607
+Eli Stowers,TE,PHI,Yes,2886,3546
+Jalen McMillan,WR,TBB,No,2878,3544
+Travis Hunter,WR,JAC,No,2878,3516
+2026 Pick 2.1,PI,PICK,No,2845,3537
+Jakobi Meyers,WR,JAC,No,2840,3557
+Cyrus Allen,WR,KCC,Yes,2813,3509
+Caleb Douglas,WR,MIA,Yes,2812,3514
+Tyler Allgeier,RB,ARI,No,2787,3559
+2028 Late 2nd,PI,PICK,No,2786,3335
+Carson Beck,QB,ARI,Yes,2772,1442
+Khalil Shakir,WR,BUF,No,2770,3443
+Tony Pollard,RB,TEN,No,2769,3416
+Michael Penix Jr.,QB,ATL,No,2764,2733
+Josh Jacobs,RB,GBP,No,2733,3491
+Zachariah Branch,WR,ATL,Yes,2730,3426
+Emmett Johnson,RB,KCC,Yes,2718,3382
+Kayshon Boutte,WR,HOU,No,2709,3354
+Nicholas Singleton,RB,TEN,Yes,2694,3473
+Chris Rodriguez,RB,JAC,No,2683,3326
+Malik Washington,WR,MIA,No,2668,3299
+Keaton Mitchell,RB,LAC,No,2656,3229
+Pat Bryant,WR,DEN,No,2644,3266
+Stefon Diggs,WR,WAS,No,2637,3270
+Dontayvion Wicks,WR,PHI,No,2630,3159
+Chigoziem Okonkwo,TE,WAS,No,2629,3166
+Mark Andrews,TE,BAL,No,2625,3160
+Rachaad White,RB,WAS,No,2625,3244
+Rashid Shaheed,WR,SEA,No,2620,3213
+Tank Bigsby,RB,PHI,No,2617,3248
+AJ Barner,TE,SEA,No,2614,3155
+Ted Hurst,WR,TBB,Yes,2614,3180
+Dallas Goedert,TE,PHI,No,2600,3164
+Kaelon Black,RB,SFO,Yes,2599,3118
+Braelon Allen,RB,NYJ,No,2595,3202
+Juwan Johnson,TE,NOS,No,2593,3011
+Tre Harris,WR,LAC,No,2578,3164
+Dylan Sampson,RB,CLE,No,2577,3129
+Adonai Mitchell,WR,NYJ,No,2573,3195
+2027 Early 3rd,PI,PICK,No,2568,3096
+Ricky Pearsall,WR,SFO,No,2554,3065
+Tre Tucker,WR,LVR,No,2549,3089
+Travis Kelce,TE,KCC,No,2528,3065
+Tyjae Spears,RB,TEN,No,2526,3053
+Jaylin Noel,WR,HOU,No,2508,3029
+Drew Allar,QB,PIT,Yes,2502,277
+2026 Early 3rd,PI,PICK,No,2500,2921
+2027 Mid 3rd,PI,PICK,No,2497,2929
+Elijah Sarratt,WR,BAL,Yes,2491,3002
+T.J. Hockenson,TE,MIN,No,2487,3014
+Kaytron Allen,RB,WAS,Yes,2481,2979
+Gunnar Helm,TE,TEN,No,2450,2953
+Kaleb Johnson,RB,GBP,No,2439,2934
+Jacoby Brissett,QB,ARI,No,2437,2073
+Jalen Nailor,WR,LVR,No,2436,2965
+Shedeur Sanders,QB,CLE,No,2421,2291
+Isaac TeSlaa,WR,DET,No,2421,3016
+Tank Dell,WR,HOU,No,2395,2821
+Tory Horton,WR,SEA,No,2395,2952
+Eli Raridon,TE,NEP,Yes,2387,2793
+Hunter Henry,TE,NEP,No,2370,2791
+Brian Robinson,RB,ATL,No,2367,2793
+Skyler Bell,WR,BUF,Yes,2367,2855
+Troy Franklin,WR,DEN,No,2345,2937
+Deebo Samuel,WR,SFO,No,2342,2900
+2026 Mid 3rd,PI,PICK,No,2334,2708
+Demond Claiborne,RB,MIN,Yes,2332,2837
+2028 Early 3rd,PI,PICK,No,2328,2706
+2027 Late 3rd,PI,PICK,No,2311,2772
+Mason Taylor,TE,NYJ,No,2307,2774
+Mac Jones,QB,SFO,No,2289,2033
+Dalton Schultz,TE,HOU,No,2283,2641
+Elic Ayomanor,WR,TEN,No,2271,2837
+Elijah Arroyo,TE,SEA,No,2267,2745
+Chris Brazzell II,WR,CAR,Yes,2264,2785
+Jack Bech,WR,LVR,No,2253,2755
+Keon Coleman,WR,BUF,No,2244,2757
+2026 Pick 3.0,PI,PICK,No,2233,2648
+Aaron Jones,RB,MIN,No,2221,2703
+Jerry Jeudy,WR,CLE,No,2211,2701
+Jauan Jennings,WR,MIN,No,2209,2616
+Greg Dulcich,TE,MIA,No,2209,2698
+Kyle Williams,WR,NEP,No,2206,2780
+Max Klare,TE,LAR,Yes,2202,2647
+Geno Smith,QB,NYJ,No,2193,1685
+Jaylen Wright,RB,MIA,No,2191,2784
+Jordan James,RB,SFO,No,2183,2713
+Tyrone Tracy,RB,NYG,No,2178,2730
+2028 Mid 3rd,PI,PICK,No,2176,2625
 2026 Late 3rd,PI,PICK,No,2175,2616
-Zavion Thomas,WR,CHI,Yes,2162,2467
-Jaylen Wright,RB,MIA,No,2160,2765
-Tyrone Tracy,RB,NYG,No,2157,2734
-Cade Otton,TE,TBB,No,2144,2582
-Pat Freiermuth,TE,PIT,No,2137,2561
-Jalen Milroe,QB,SEA,No,2136,2125
-Michael Mayer,TE,LVR,No,2125,2615
-Ollie Gordon,RB,MIA,No,2123,2660
-Kimani Vidal,RB,LAC,No,2118,2629
-David Njoku,TE,LAC,No,2117,2525
-Cade Klubnik,QB,NYJ,Yes,2110,1511
-J.J. McCarthy,QB,MIN,No,2107,1868
-Sean Tucker,RB,TBB,No,2104,2669
-Oscar Delp,TE,NOS,Yes,2101,2562
-Adam Randall,RB,BAL,Yes,2094,2497
-2028 Late 3rd,PI,PICK,No,2086,2399
-Ryan Flournoy,WR,DAL,No,2075,2594
-Kirk Cousins,QB,LVR,No,2067,1367
-Chimere Dike,WR,TEN,No,2067,2572
-Tua Tagovailoa,QB,ATL,No,2053,2096
-Marvin Mims,WR,DEN,No,2039,2523
-Kevin Coleman,WR,MIA,Yes,2035,2544
-Tez Johnson,WR,TBB,No,2029,2474
-Rashod Bateman,WR,BAL,No,2026,2521
-Xavier Hutchinson,WR,HOU,No,2021,2396
-Demario Douglas,WR,NEP,No,2019,2476
-LeQuint Allen,RB,JAC,No,2016,2530
-Ray Davis,RB,BUF,No,2011,2558
-Trevor Etienne,RB,CAR,No,1998,2494
-Isaiah Bond,WR,CLE,No,1995,2455
-Colby Parkinson,TE,LAR,No,1983,2379
-Bryce Lance,WR,NOS,Yes,1983,2394
-Isiah Pacheco,RB,DET,No,1977,2468
-2027 Early 4th,PI,PICK,No,1973,2260
-Theo Johnson,TE,NYG,No,1971,2418
-Jaylin Lane,WR,WAS,No,1968,2438
-Malik Davis,RB,DAL,No,1932,2207
-Jake Tonges,TE,SFO,No,1931,2356
-Isaiah Davis,RB,NYJ,No,1927,2284
-Jalon Daniels,QB,TBB,Yes,1925,766
-Aaron Rodgers,QB,PIT,No,1921,1557
-Cole Kmet,TE,CHI,No,1916,2332
-Darnell Washington,TE,PIT,No,1906,2286
-Anthony Richardson,QB,IND,No,1896,1874
-DJ Giddens,RB,IND,No,1888,2383
-Dont'e Thornton,WR,LVR,No,1882,2332
-2027 Mid 4th,PI,PICK,No,1877,2158
-Alvin Kamara,RB,NOS,No,1876,2345
-Xavier Legette,WR,CAR,No,1871,2345
-Seth McGowan,RB,IND,Yes,1853,2309
-Devaughn Vele,WR,NOS,No,1838,2084
-Barion Brown,WR,NOS,Yes,1823,2145
-Jalen Royals,WR,KCC,No,1812,2230
-Kendre Miller,RB,NOS,No,1802,2165
-Darnell Mooney,WR,NYG,No,1788,2229
-Malik Benson,WR,LVR,Yes,1788,2105
-2026 Early 4th,PI,PICK,No,1780,2077
-George Holani,RB,SEA,No,1779,2105
-Brenen Thompson,WR,LAC,Yes,1779,2085
-Roman Wilson,WR,PIT,No,1776,2184
-Justin Fields,QB,KCC,No,1766,1792
-Devin Neal,RB,FA,No,1763,2173
-Brashard Smith,RB,KCC,No,1755,2217
-Najee Harris,RB,NYG,No,1749,2021
-Ja'Tavion Sanders,TE,CAR,No,1748,2160
-Trey Benson,RB,ARI,No,1736,2192
-Will Howard,QB,PIT,No,1735,1594
-Chris Brooks,RB,GBP,No,1732,2080
-Keenan Allen,WR,IND,No,1710,2051
-Tyquan Thornton,WR,KCC,No,1710,2105
-Eli Heidenreich,RB,PIT,Yes,1695,2065
-2026 Mid 4th,PI,PICK,No,1693,1919
-Deshaun Watson,QB,CLE,No,1687,870
-Emanuel Wilson,RB,SEA,No,1680,2090
-Jahan Dotson,WR,ATL,No,1670,2008
-Justin Joly,TE,MIA,Yes,1669,2105
-Calvin Ridley,WR,TEN,No,1654,1965
-Justice Hill,RB,BAL,No,1653,1887
-Evan Engram,TE,DEN,No,1647,1949
-2027 Late 4th,PI,PICK,No,1646,1900
-Dawson Knox,TE,BUF,No,1622,1980
-Luke Musgrave,TE,GBP,No,1620,1937
-Cooper Kupp,WR,SEA,No,1619,1915
-Savion Williams,WR,GBP,No,1616,2021
-Jalen Tolbert,WR,MIA,No,1611,2017
-Andrei Iosivas,WR,CIN,No,1608,1913
-2028 Early 4th,PI,PICK,No,1602,2020
-Taylen Green,QB,CLE,Yes,1584,199
-Christian Kirk,WR,SFO,No,1579,1965
-Tahj Brooks,RB,CIN,No,1551,2004
-Jack Strand,QB,ATL,Yes,1541,357
-Quinn Ewers,QB,JAC,No,1536,1458
-2026 Late 4th,PI,PICK,No,1523,1790
-Joshua Palmer,WR,BUF,No,1508,1830
-Roschon Johnson,RB,CHI,No,1507,1828
-Ben Sinnott,TE,WAS,No,1504,1885
-2028 Mid 4th,PI,PICK,No,1501,1866
-Joe Milton,QB,DAL,No,1499,1418
-Will Shipley,RB,PHI,No,1496,1884
-Erick All,TE,CIN,No,1470,1841
-Tutu Atwell,WR,LAR,No,1469,1830
-Luke McCaffrey,WR,WAS,No,1466,1932
-Garrett Nussmeier,QB,KCC,Yes,1454,1347
-Jarquez Hunter,RB,MIA,No,1449,1843
-Jimmy Horn,WR,CAR,No,1437,1908
-Riley Leonard,QB,IND,No,1435,1184
-Charlie Kolar,TE,LAC,No,1422,1627
-Treylon Burks,WR,WAS,No,1416,1841
-Audric Estime,RB,NOS,No,1415,1822
-Jacob Saylors,RB,DET,No,1397,1583
-KeAndre Lambert-Smith,WR,LAC,No,1397,1766
-James Conner,RB,ARI,No,1392,1807
-Spencer Rattler,QB,NOS,No,1387,1166
-2028 Late 4th,PI,PICK,No,1380,1564
-Jordan Whittington,WR,LAR,No,1376,1730
-Noah Gray,TE,KCC,No,1372,1683
-Deion Burks,WR,IND,Yes,1368,1713
-Jahdae Walker,WR,CHI,No,1360,1611
-Tyson Bagent,QB,CHI,No,1358,291
-Devontez Walker,WR,BAL,No,1354,1673
-Marlin Klein,TE,HOU,Yes,1343,1591
-Colbie Young,WR,CIN,Yes,1340,1451
-Tai Felton,WR,MIN,No,1335,1648
-John Metchie,WR,CAR,No,1334,1649
-Mike Gesicki,TE,CIN,No,1323,1649
-Darius Slayton,WR,NYG,No,1308,1604
-Isaac Guerendo,RB,SFO,No,1307,1642
-CJ Daniels,WR,LAR,Yes,1302,1555
-Kameron Johnson,WR,TBB,No,1295,1569
-Matthew Hibner,TE,BAL,Yes,1285,1453
-Darren Waller,TE,CAR,No,1278,1389
-Dyami Brown,WR,WAS,No,1277,1577
-Marquise Brown,WR,PHI,No,1276,1572
-Daniel Bellinger,TE,TEN,No,1269,1509
-Noah Fant,TE,NOS,No,1261,1509
-Cade Stover,TE,HOU,No,1260,1505
-Tyler Higbee,TE,LAR,No,1248,1477
-Olamide Zaccheaus,WR,ATL,No,1247,1502
-Jaydon Blue,RB,PHI,No,1241,1659
-Konata Mumpfield,WR,LAR,No,1238,1568
-Raheim Sanders,RB,CLE,No,1237,1489
-Jordan Watkins,WR,SFO,No,1230,1545
-Elijah Moore,WR,PHI,No,1229,1495
-Ty Johnson,RB,BUF,No,1227,1524
-Tommy Tremble,TE,CAR,No,1222,1487
-Emari Demercado,RB,DAL,No,1215,1475
-Jameis Winston,QB,NYG,No,1210,1053
-Jacob Cowing,WR,SFO,No,1210,1464
-Cedric Tillman,WR,NOS,No,1205,1537
-Kendrick Bourne,WR,ARI,No,1202,1497
-Malachi Corley,WR,CLE,No,1197,1445
-Jack Endries,TE,CIN,Yes,1191,1377
-Rasheen Ali,RB,BAL,No,1190,1488
-Devin Singletary,RB,NYG,No,1168,1509
-Jalin Hyatt,WR,NYG,No,1162,1435
-Tanner Koziol,TE,JAC,Yes,1161,1215
-Trey Palmer,WR,NOS,No,1156,1374
-Michael Trigg,TE,DAL,Yes,1154,1362
-Jaleel McLaughlin,RB,CLE,No,1148,1459
-Mitchell Evans,TE,CAR,No,1147,1350
-Calvin Austin III,WR,NYG,No,1144,1390
-Davis Mills,QB,HOU,No,1142,297
-Greg Dortch,WR,BUF,No,1137,1350
-Gabriel Davis,WR,BUF,No,1132,1306
-Jonathan Mingo,WR,DAL,No,1130,1365
-Tyler Huntley,QB,BAL,No,1123,605
-Elijah Higgins,TE,ARI,No,1121,1299
-Damien Martinez,RB,FA,No,1115,1485
-Xavier Restrepo,WR,TEN,No,1106,1324
-J'Mari Taylor,RB,JAC,Yes,1104,1294
-Tanner McKee,QB,PHI,No,1103,470
-Dillon Gabriel,QB,CLE,No,1102,1162
-Efton Chism,WR,NEP,No,1094,1375
-David Bell,WR,CLE,No,1088,1292
-Luke Schoonmaker,TE,DAL,No,1087,1294
-Tyreek Hill,WR,FA,No,1086,1383
-Jam Miller,RB,RFA,No,1085,1283
-Bam Knight,RB,ARI,No,1065,1320
-KaVontae Turpin,WR,DAL,No,1061,1288
-Sam Roush,TE,CHI,Yes,1060,1196
-Javon Baker,WR,SFO,No,1024,1262
-Tahj Washington,WR,FA,No,1013,1210
-Kalel Mullings,RB,TEN,No,1002,1244
-Marcus Mariota,QB,WAS,No,994,574
-Arian Smith,WR,NYJ,No,993,1151
-Gardner Minshew,QB,ARI,No,989,404
-Sam Howell,QB,DAL,No,980,595
-Mack Hollins,WR,NEP,No,976,1150
-Brandon Aiyuk,WR,SFO,No,969,1256
-Trey Lance,QB,LAC,No,966,552
-Skyy Moore,WR,GBP,No,954,1074
-Jerome Ford,RB,FA,No,948,1214
-Davis Allen,TE,LAR,No,942,1206
-Kenny Pickett,QB,CAR,No,940,566
-Sione Vaki,RB,DET,No,940,1096
-Tyler Badie,RB,DEN,No,939,1143
-Dameon Pierce,RB,PHI,No,934,1139
-Khalil Herbert,RB,FA,No,932,1088
-Phil Mafah,RB,FA,No,926,1149
-Jared Wiley,TE,KCC,No,917,1115
-Donovan Edwards,RB,FA,No,916,1135
-Israel Abanikanda,RB,DAL,No,900,1095
-Le'Veon Moss,RB,MIA,Yes,899,1095
-Nick Westbrook-Ikhine,WR,IND,No,897,1128
-Tyler Goodson,RB,ATL,No,887,1087
-Brevin Jordan,TE,HOU,No,867,1069
-Mason Tipton,WR,NOS,No,867,1093
-Samaje Perine,RB,CIN,No,864,1076
-Frank Gore Jr.,RB,BUF,No,863,1028
-Drew Lock,QB,SEA,No,851,424
-Will Levis,QB,FA,No,836,530
-Bo Melton,WR,GBP,No,831,1043
-Reggie Virgil,WR,ARI,Yes,827,1031
-Isaiah Hodgins,WR,FA,No,821,1015
-Joe Flacco,QB,CIN,No,817,671
-Tyler Scott,WR,FA,No,801,994
-Kendall Milton,RB,CIN,No,799,960
-Jonnu Smith,TE,GBP,No,798,1057
-Brock Wright,TE,DET,No,796,933
-Xavier Gipson,WR,FA,No,785,1015
-Michael Carter,RB,TEN,No,741,998
-Cole Payton,QB,PHI,Yes,719,188
-Kyle McCord,QB,MIA,No,714,281
-Tyrell Shavers,WR,BUF,No,673,1019
-Bub Means,WR,FA,No,657,885
-Jake Bobo,WR,SEA,No,615,948
-AJ Dillon,RB,CAR,No,607,804
-Stetson Bennett,QB,LAR,No,598,255
-Demarcus Robinson,WR,SFO,No,576,786
-Lil'Jordan Humphrey,WR,DEN,No,572,850
-Odell Beckham,WR,NYG,No,572,831
-Dohnte Meyers,WR,CIN,No,563,867
-Johnny Wilson,WR,PHI,No,540,845
-Dylan Laube,RB,LVR,No,525,714
-LaJohntay Wester,WR,BAL,No,507,762
-Aidan O'Connell,QB,LVR,No,493,555
-Julius Chestnut,RB,TEN,No,491,653
-Jamari Thrash,WR,CLE,No,487,642
-Adam Trautman,TE,DEN,No,482,607
-Alexander Mattison,RB,MIA,No,481,665
-Derius Davis,WR,LAC,No,478,700
-Foster Moreau,TE,HOU,No,477,568
-Zavier Scott,RB,CHI,No,471,568
-Kalif Raymond,WR,CHI,No,466,572
-Ray-Ray McCloud,WR,CHI,No,464,538
-Nathan Carter,RB,ATL,No,462,746
-Josh Oliver,TE,MIN,No,461,567
-Grant Calcaterra,TE,PHI,No,461,555
-Malik Heath,WR,ATL,No,459,660
-Max Brosmer,QB,MIN,No,458,78
-Jeremy Ruckert,TE,NYJ,No,457,565
-Luke Altmyer,QB,DET,Yes,457,554
+Zavion Thomas,WR,CHI,Yes,2171,2464
+Pat Freiermuth,TE,PIT,No,2146,2562
+Cade Otton,TE,TBB,No,2144,2586
+David Njoku,TE,LAC,No,2129,2523
+2026 Pick 3.1,PI,PICK,No,2128,2579
+Kimani Vidal,RB,LAC,No,2125,2620
+Jalen Milroe,QB,SEA,No,2124,2133
+Ollie Gordon,RB,MIA,No,2120,2652
+Michael Mayer,TE,LVR,No,2113,2618
+Cade Klubnik,QB,NYJ,Yes,2102,1511
+J.J. McCarthy,QB,MIN,No,2098,1868
+Oscar Delp,TE,NOS,Yes,2098,2562
+Adam Randall,RB,BAL,Yes,2097,2489
+Sean Tucker,RB,TBB,No,2089,2643
+Ryan Flournoy,WR,DAL,No,2088,2584
+2028 Late 3rd,PI,PICK,No,2071,2396
+Chimere Dike,WR,TEN,No,2070,2602
+Kirk Cousins,QB,LVR,No,2069,1373
+Tua Tagovailoa,QB,ATL,No,2056,2087
+Demario Douglas,WR,NEP,No,2047,2491
+Marvin Mims,WR,DEN,No,2036,2511
+Ray Davis,RB,BUF,No,2032,2565
+LeQuint Allen,RB,JAC,No,2028,2550
+Rashod Bateman,WR,BAL,No,2024,2524
+Kevin Coleman,WR,MIA,Yes,2020,2543
+Xavier Hutchinson,WR,HOU,No,2018,2401
+Tez Johnson,WR,TBB,No,2016,2458
+Colby Parkinson,TE,LAR,No,2007,2399
+Bryce Lance,WR,NOS,Yes,1996,2416
+Isaiah Bond,WR,CLE,No,1983,2448
+Theo Johnson,TE,NYG,No,1968,2421
+Malik Davis,RB,DAL,No,1963,2250
+Jaylin Lane,WR,WAS,No,1962,2440
+Trevor Etienne,RB,CAR,No,1960,2454
+Isiah Pacheco,RB,DET,No,1956,2451
+Jalon Daniels,QB,TBB,Yes,1945,769
+2027 Early 4th,PI,PICK,No,1943,2263
+Aaron Rodgers,QB,PIT,No,1940,1560
+Jake Tonges,TE,SFO,No,1931,2348
+Cole Kmet,TE,CHI,No,1925,2330
+Darnell Washington,TE,PIT,No,1920,2282
+Isaiah Davis,RB,NYJ,No,1916,2276
+Anthony Richardson,QB,IND,No,1908,1876
+Alvin Kamara,RB,NOS,No,1891,2362
+DJ Giddens,RB,IND,No,1891,2373
+Dont'e Thornton,WR,LVR,No,1873,2337
+2027 Mid 4th,PI,PICK,No,1871,2158
+Seth McGowan,RB,IND,Yes,1857,2326
+Devaughn Vele,WR,NOS,No,1847,2103
+Xavier Legette,WR,CAR,No,1844,2323
+Barion Brown,WR,NOS,Yes,1818,2144
+Jalen Royals,WR,KCC,No,1815,2224
+Kendre Miller,RB,NOS,No,1814,2166
+George Holani,RB,SEA,No,1809,2127
+Malik Benson,WR,LVR,Yes,1785,2100
+Roman Wilson,WR,PIT,No,1776,2204
+Brenen Thompson,WR,LAC,Yes,1773,2086
+2026 Early 4th,PI,PICK,No,1771,2086
+Najee Harris,RB,NYG,No,1767,2021
+Darnell Mooney,WR,NYG,No,1764,2201
+Justin Fields,QB,KCC,No,1763,1786
+Brashard Smith,RB,KCC,No,1758,2207
+Trey Benson,RB,ARI,No,1751,2200
+Ja'Tavion Sanders,TE,CAR,No,1748,2147
+Will Howard,QB,PIT,No,1741,1597
+Chris Brooks,RB,GBP,No,1733,2102
+Tyquan Thornton,WR,KCC,No,1722,2113
+Devin Neal,RB,FA,No,1709,2130
+Keenan Allen,WR,IND,No,1707,2044
+Eli Heidenreich,RB,PIT,Yes,1701,2035
+2026 Mid 4th,PI,PICK,No,1696,1920
+Justice Hill,RB,BAL,No,1686,1916
+Justin Joly,TE,MIA,Yes,1684,2113
+Emanuel Wilson,RB,SEA,No,1683,2083
+Jahan Dotson,WR,ATL,No,1670,2026
+Deshaun Watson,QB,CLE,No,1667,875
+Calvin Ridley,WR,TEN,No,1646,1966
+2027 Late 4th,PI,PICK,No,1634,1897
+Evan Engram,TE,DEN,No,1632,1926
+Luke Musgrave,TE,GBP,No,1627,1944
+Dawson Knox,TE,BUF,No,1625,2001
+Jalen Tolbert,WR,MIA,No,1614,2022
+Savion Williams,WR,GBP,No,1613,2006
+Cooper Kupp,WR,SEA,No,1610,1910
+Christian Kirk,WR,SFO,No,1609,1971
+Taylen Green,QB,CLE,Yes,1602,199
+2028 Early 4th,PI,PICK,No,1590,2023
+Andrei Iosivas,WR,CIN,No,1587,1908
+2026 Pick 4.0,PI,PICK,No,1583,1835
+Tahj Brooks,RB,CIN,No,1551,2001
+Jack Strand,QB,ATL,Yes,1548,357
+Roschon Johnson,RB,CHI,No,1531,1840
+Joe Milton,QB,DAL,No,1523,1421
+Quinn Ewers,QB,JAC,No,1522,1458
+2026 Late 4th,PI,PICK,No,1517,1785
+Ben Sinnott,TE,WAS,No,1504,1884
+2028 Mid 4th,PI,PICK,No,1498,1863
+Joshua Palmer,WR,BUF,No,1494,1807
+Will Shipley,RB,PHI,No,1490,1866
+Erick All,TE,CIN,No,1479,1862
+Tutu Atwell,WR,LAR,No,1467,1822
+Luke McCaffrey,WR,WAS,No,1449,1931
+2026 Pick 4.1,PI,PICK,No,1440,1729
+Jarquez Hunter,RB,MIA,No,1440,1847
+Garrett Nussmeier,QB,KCC,Yes,1431,1344
+Charlie Kolar,TE,LAC,No,1428,1644
+Treylon Burks,WR,WAS,No,1425,1855
+Jimmy Horn,WR,CAR,No,1425,1892
+Riley Leonard,QB,IND,No,1423,1175
+Audric Estime,RB,NOS,No,1419,1807
+Jacob Saylors,RB,DET,No,1415,1609
+Spencer Rattler,QB,NOS,No,1409,1166
+KeAndre Lambert-Smith,WR,LAC,No,1409,1765
+2028 Late 4th,PI,PICK,No,1384,1562
+Tyson Bagent,QB,CHI,No,1378,291
+James Conner,RB,ARI,No,1374,1797
+Marlin Klein,TE,HOU,Yes,1367,1620
+Noah Gray,TE,KCC,No,1366,1689
+Deion Burks,WR,IND,Yes,1365,1725
+Jordan Whittington,WR,LAR,No,1364,1730
+Jahdae Walker,WR,CHI,No,1354,1600
+John Metchie,WR,CAR,No,1343,1672
+Devontez Walker,WR,BAL,No,1336,1655
+Tai Felton,WR,MIN,No,1329,1629
+CJ Daniels,WR,LAR,Yes,1323,1570
+Mike Gesicki,TE,CIN,No,1318,1640
+Darius Slayton,WR,NYG,No,1317,1604
+Colbie Young,WR,CIN,Yes,1311,1428
+Isaac Guerendo,RB,SFO,No,1302,1632
+Kameron Johnson,WR,TBB,No,1292,1563
+Matthew Hibner,TE,BAL,Yes,1283,1449
+Darren Waller,TE,CAR,No,1278,1397
+Marquise Brown,WR,PHI,No,1274,1560
+Dyami Brown,WR,WAS,No,1262,1556
+Daniel Bellinger,TE,TEN,No,1260,1498
+Olamide Zaccheaus,WR,ATL,No,1259,1514
+Tyler Higbee,TE,LAR,No,1257,1487
+Noah Fant,TE,NOS,No,1252,1507
+Jaydon Blue,RB,PHI,No,1250,1669
+Ty Johnson,RB,BUF,No,1249,1530
+Cade Stover,TE,HOU,No,1248,1490
+Emari Demercado,RB,DAL,No,1234,1488
+Konata Mumpfield,WR,LAR,No,1232,1577
+Raheim Sanders,RB,CLE,No,1222,1480
+Elijah Moore,WR,PHI,No,1221,1489
+Jameis Winston,QB,NYG,No,1216,1059
+Tommy Tremble,TE,CAR,No,1216,1484
+Jacob Cowing,WR,SFO,No,1216,1470
+Jordan Watkins,WR,SFO,No,1215,1535
+Kendrick Bourne,WR,ARI,No,1208,1506
+Cedric Tillman,WR,NOS,No,1208,1545
+Jack Endries,TE,CIN,Yes,1203,1378
+Malachi Corley,WR,CLE,No,1198,1445
+Rasheen Ali,RB,BAL,No,1190,1479
+Tanner Koziol,TE,JAC,Yes,1179,1229
+Jaleel McLaughlin,RB,CLE,No,1154,1459
+Greg Dortch,WR,BUF,No,1149,1342
+Mitchell Evans,TE,CAR,No,1148,1362
+Michael Trigg,TE,DAL,Yes,1148,1351
+Devin Singletary,RB,NYG,No,1147,1504
+Gabriel Davis,WR,BUF,No,1147,1327
+Davis Mills,QB,HOU,No,1146,297
+Jalin Hyatt,WR,NYG,No,1142,1411
+Trey Palmer,WR,NOS,No,1138,1363
+Calvin Austin III,WR,NYG,No,1132,1387
+Tyler Huntley,QB,BAL,No,1130,605
+Jonathan Mingo,WR,DAL,No,1127,1356
+Xavier Restrepo,WR,TEN,No,1115,1318
+Dillon Gabriel,QB,CLE,No,1114,1168
+J'Mari Taylor,RB,JAC,Yes,1110,1301
+Elijah Higgins,TE,ARI,No,1109,1297
+Tanner McKee,QB,PHI,No,1106,470
+Efton Chism,WR,NEP,No,1100,1389
+Luke Schoonmaker,TE,DAL,No,1090,1284
+Tyreek Hill,WR,FA,No,1086,1385
+Sam Roush,TE,CHI,Yes,1084,1227
+David Bell,WR,CLE,No,1079,1284
+Damien Martinez,RB,FA,No,1079,1460
+Jam Miller,RB,RFA,No,1079,1287
+KaVontae Turpin,WR,DAL,No,1052,1283
+Bam Knight,RB,ARI,No,1047,1313
+Javon Baker,WR,SFO,No,1022,1274
+Kalel Mullings,RB,TEN,No,1012,1256
+Arian Smith,WR,NYJ,No,1002,1166
+Sam Howell,QB,DAL,No,1001,595
+Tahj Washington,WR,FA,No,1001,1207
+Gardner Minshew,QB,ARI,No,993,405
+Marcus Mariota,QB,WAS,No,988,577
+Trey Lance,QB,LAC,No,975,552
+Brandon Aiyuk,WR,SFO,No,964,1241
+Mack Hollins,WR,NEP,No,964,1147
+Sione Vaki,RB,DET,No,958,1112
+Tyler Badie,RB,DEN,No,951,1167
+Skyy Moore,WR,GBP,No,945,1059
+Kenny Pickett,QB,CAR,No,944,566
+Davis Allen,TE,LAR,No,942,1202
+Khalil Herbert,RB,FA,No,932,1078
+Dameon Pierce,RB,PHI,No,928,1127
+Jerome Ford,RB,FA,No,928,1181
+Jared Wiley,TE,KCC,No,926,1126
+Israel Abanikanda,RB,DAL,No,915,1105
+Phil Mafah,RB,FA,No,908,1137
+Nick Westbrook-Ikhine,WR,IND,No,903,1137
+Le'Veon Moss,RB,MIA,Yes,902,1101
+Donovan Edwards,RB,FA,No,892,1113
